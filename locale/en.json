@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek peak & off-peak price",
+    "description": "Shows whether DeepSeek API is currently in peak (full price) or off-peak (half price) time right after the Edit menu in the window title strip, with a countdown to the next switch. Click the pill for the current segment, the next switch time, and the billing rule. Data is read from the public dsfgz.xinwkx.top endpoint on load and every 60 seconds; the request runs only in the web page and changes no model request or session content."
+  }
+}
